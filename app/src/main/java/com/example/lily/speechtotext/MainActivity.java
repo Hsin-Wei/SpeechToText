@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
 
         // hide the action bar
        // getActionBar().hide();
+        //Nothing
 
     //    final File mFile = new File(mSDFile.getParent() + "/" + mSDFile.getName() + "/MyAndroid1.txt");
         btnSpeak.setOnClickListener(new View.OnClickListener() {
